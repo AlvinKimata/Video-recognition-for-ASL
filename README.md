@@ -9,3 +9,6 @@ This repo contains code building a action recognition model specifically for Ame
 ### The `Inflated 3D CNN` model implemented for video recognition uses the `Inception` architecture for feature extraction.
 
 ![inception network](inputs/inception_network.png)
+
+
+### The repository for downloading the dataset can be found [here.](https://github.com/dxli94/WLASL)

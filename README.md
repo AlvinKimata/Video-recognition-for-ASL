@@ -11,4 +11,4 @@ This repo contains code building a action recognition model specifically for Ame
 ![inception network](inputs/inception_network.png)
 
 
-### The repository for downloading the dataset can be found [here.](https://github.com/dxli94/WLASL)
+### The repository for downloading the American Sign language dataset can be found [here.](https://github.com/dxli94/WLASL)

@@ -1,6 +1,6 @@
 ## Below is the model architecture summary of the Inflated 3d inception model.
 
-
+```sh
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
@@ -212,4 +212,5 @@ Params size (MB): 48.44
 Estimated Total Size (MB): 792.73
 ----------------------------------------------------------------
 None
-​
+
+```
